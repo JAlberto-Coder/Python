@@ -14,7 +14,8 @@ Este repositorio contiene fragmentos de código y utilidades en Python que he en
 Para utilizar el código de este repositorio, simplemente clona el repositorio a tu máquina local:
 
 ```bash
-git clone [https://github.com/JAlberto-Coder/Python.git]```
+git clone https://github.com/JAlberto-Coder/Python.git
+```
 
 Luego, navega al directorio y sigue las instrucciones específicas para cada utilidad.
 
